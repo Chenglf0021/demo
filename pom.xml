@@ -46,6 +46,7 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 		</dependency>
+		
 		<!-- logback 依赖-->
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
